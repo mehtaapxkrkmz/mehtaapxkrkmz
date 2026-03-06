@@ -1,7 +1,7 @@
-<h1 align="center">Merhaba, ben Mehtap</h1>
-<h3 align="center">SDÜ Bilgisayar Mühendisliği 4.Sınıf Öğrencisi</h3>
+<h1 align="center">Hello, I'm Mehtap</h1>
+<h2 align="left">4th Year Computer Engineering Student at Süleyman Demirel University</h2>
 
-- Üzerinde çalışmakta olduklarım: **Python,Data Science,AI**
+- What I'm currently working on: **Python, Data Science, AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
